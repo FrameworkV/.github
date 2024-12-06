@@ -4,6 +4,14 @@
 
 FrameworkV is a student-based open source software team.
 
+### 🔎 Team Members
+
+- Frontend developer
+- Backend developers
+- Software engineers
+- AI/LLM developer
+
+
 ## 📦 Projects
 
 ### Active Projects
