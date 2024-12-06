@@ -39,13 +39,13 @@ Full documentation for each project can be found in the respective repositories.
 
 ## 🛡️ Security
 
-Please report security vulnerabilities privately to: frameworkv@gmail.com
+Please report security vulnerabilities privately to: contact.frameworkv@gmail.com
 
 ## 📜 License
 
 All projects are open source and released under [MIT License](https://github.com/FrameworkV/.github/blob/main/LICENSE).
 
 ## 🌐 Connect with Us
-- Email: frameworkv@gmail.com
+- Email: contact.frameworkv@gmail.com
 
 *Empowering developers, one framework at a time.*
