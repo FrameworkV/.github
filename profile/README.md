@@ -1,4 +1,4 @@
-# FrameworkV Organization
+# FrameworkV
 
 ## 🚀 About
 
