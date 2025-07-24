@@ -1,51 +1,47 @@
-# FrameworkV
 
-## 🚀 About
+![Banner](https://github.com/user-attachments/assets/ec84c594-22d0-413f-939f-b09e2b8c47db)
 
-FrameworkV is a student-based open source software team.
+# Quantly 🚀
 
-### 🔎 Team Members
+Welcome to Quantly's GitHub organization! At Quantly, we develop our own innovative AI software products that push the boundaries of what's possible with artificial intelligence. We focus on creating proprietary solutions that leverage cutting-edge machine learning, natural language processing, and data analytics technologies.
 
-- Frontend developer
-- Backend developers
-- Software engineers
-- AI/LLM developer
+## 🛠️ Our Products
 
+### 🍴 FoodFusionAI
+Our automated groceries management app - plan your whole week in just **60 seconds**.
 
-## 📦 Projects
+**Key Features:**
+- set preferences, receive recipes for every day of the week
+- track nutrition data
+- auto-update your storage
+- chat with our built-in AI assistant
 
-### Active Projects
-- **Frameworks**: *soon*
-- **LLM AI assistant**: FoodFusionAI
-  - [Website](https://zealous-bush-0277f6903.5.azurestaticapps.net/)
-  - [Backend](https://github.com/FrameworkV/FoodFusionAI)
-  - [Frontend](https://github.com/FrameworkV/FoodFusionAI-Website)
+Get started: [TODO website url] |
+Readme: [TODO public readme repo]
 
-## 🤝 Contribution Guidelines
+## 🔧 Technologies We Use
 
-### How to Contribute
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Open a pull request
+- **Languages:** Python, TypeScript
+- **AI/ML:** PyTorch, TensorFlow, Hugging Face, scikit-learn
+- **Cloud:** Azure
+- **Databases:** PostgreSQL, Redis
 
-### Code of Conduct
+## 🤝 Open Source Commitment
 
-You can find the code of conduct [here](https://github.com/FrameworkV/.github/blob/main/.github/CODE_OF_CONDUCT.md)
+*If we publish open source projects, you will find them here.*
 
-## Documentation 
+If you want to contribute to our product code base, email us at [TODO].
 
-Full documentation for each project can be found in the respective repositories. 
+## 📞 Get in Touch
 
-## 🛡️ Security
+- **Website:** [todo](todo)
+- **Email:** hello@quantly.ai
+- **LinkedIn:** [Quantly](https://linkedin.com/company/quantly-ai)
 
-Please report security vulnerabilities privately to: contact.frameworkv@gmail.com
+## 🌍 Community Guidelines
 
-## 📜 License
+We're committed to fostering an inclusive and welcoming community. Please read our **Code of Conduct** before participating.
 
-All projects are open source and released under [MIT License](https://github.com/FrameworkV/.github/blob/main/LICENSE).
+<br><br>
 
-## 🌐 Connect with Us
-- Email: contact.frameworkv@gmail.com
-
-*Empowering developers, one framework at a time.*
+> **Made with ❤️ in Berlin | © 2025 Quantly UG (haftungsbeschränkt). All rights reserved.**
