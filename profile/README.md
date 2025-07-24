@@ -35,8 +35,8 @@ If you want to contribute to our product code base, email us at [TODO].
 ## 📞 Get in Touch
 
 - **Website:** [todo](todo)
-- **Email:** hello@quantly.ai
-- **LinkedIn:** [Quantly](https://linkedin.com/company/quantly-ai)
+- **Email:** [TODO]
+- **LinkedIn:** [todo](todo)
 
 ## 🌍 Community Guidelines
 
