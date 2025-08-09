@@ -22,7 +22,7 @@ Readme: [TODO public readme repo]
 ## 🔧 Technologies We Use
 
 - **Languages:** Python, TypeScript
-- **AI/ML:** PyTorch, TensorFlow, Hugging Face, scikit-learn
+- **AI/ML:** scikit-learn, TensorFlow, LangChain, LangGraph
 - **Cloud:** Azure
 - **Databases:** PostgreSQL, Redis
 
