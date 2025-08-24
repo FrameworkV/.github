@@ -16,8 +16,8 @@ Our automated groceries management app - plan your whole week in just **60 secon
 - auto-update your storage
 - chat with our built-in AI assistant
 
-Get started: [TODO website url] |
-Readme: [TODO public readme repo]
+Get started: https://foodfusionai.de |
+Readme: [README](https://github.com/QuantlyDevs/FoodFusionAI-README)
 
 ## 🔧 Technologies We Use
 
